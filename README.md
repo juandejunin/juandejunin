@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandejunin" alt="juandejunin" /></a> </p>
 
-- 🔭 I'm currently working on **Remindpay**
+- 🔭 I'm currently working on **tusistema**
 
 - 🌱 I'm currently learning **https://angular.dev/**
 
