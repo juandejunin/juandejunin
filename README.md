@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Remindpay**
 
-- 🌱 I'm currently learning **https://www.jetbrains.com/lp/compose-multiplatform/**
+- 🌱 I'm currently learning **https://angular.dev/**
 
 - 👯 I'm looking to collaborate on **tools for musicians**
 
