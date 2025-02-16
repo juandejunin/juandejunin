@@ -7,11 +7,11 @@
 
 - 🔭 I'm currently working on **tusistema**
 
-- 🌱 I'm currently learning **https://angular.dev/**
+- 🌱 I'm currently learning **https://astro.build/**
 
 - 👯 I'm looking to collaborate on **tools for musicians**
 
-- 💬 Ask me about **Node, Express, Java**
+- 💬 Ask me about **Node, Express, Javascript**
 
 - 📫 How to reach me **juandejunin75@gmail.com**
 
