@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Alberto Amieva</h1>
+<h1 align="center">Hi 👋, I'm J75</h1>
 <h3 align="center">Passionate professional musician and backend developer, I am dedicated to finding concrete solutions through code to address real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandejunin&label=Profile%20views&color=0e75b6&style=flat" alt="juandejunin" /> </p>
